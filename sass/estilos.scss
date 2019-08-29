@@ -1,0 +1,15 @@
+/* Librerias y variables*/
+@import "lib/variables";
+/*Elementos Base */
+@import "base/botones";
+/* Links */
+@import "base/links";
+/* Tipografia */
+@import "base/tipografia";
+/* Components Grids */
+@import "componentes/grid";
+
+/* Este siempre va de ultimo */
+@import "componentes/utilities";
+/* Test */
+@import "tablas"; 
