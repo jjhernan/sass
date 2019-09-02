@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,0BAA0B;ACA1B,aAAa;AACb,oBAAoB;AAWpB,cAAc;ADVd,mBAAmB;AEFnB,cAAc;AFId,WAAW;AGJX,YAAY;AHMZ,gBAAgB;AINhB,iBAAiB;AJQjB,sBAAsB;AAGtB,+BAA+B;AAE/B,UAAU;AKbV,cAAc;EACd,gBAAgB,EJGC,OAAgB",
+"mappings": "AAAA,0BAA0B;ACA1B,aAAa;AACb,oBAAoB;AAYpB,cAAc;AAMd,gBAAgB;ADjBhB,mBAAmB;AEFnB,cAAc;AFId,WAAW;AGJX,YAAY;AHMZ,gBAAgB;AINhB,iBAAiB;AJQjB,sBAAsB;AAGtB,+BAA+B;AAE/B,UAAU;AKbV,cAAc;EACd,gBAAgB,EJGC,OAAgB",
 "sources": ["../sass/estilos.scss","../sass/lib/_variables.scss","../sass/base/_botones.scss","../sass/base/_links.scss","../sass/base/_tipografia.scss","../sass/_tablas.scss"],
 "names": [],
 "file": "estilos.css"
