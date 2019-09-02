@@ -1,5 +1,8 @@
 /* Librerias y variables*/
 @import "lib/variables";
+/* Mixins */
+@import "lib/mixins";
+
 /*Elementos Base */
 @import "base/botones";
 /* Links */
@@ -11,5 +14,10 @@
 
 /* Este siempre va de ultimo */
 @import "componentes/utilities";
+
+/* Layout */
+
+@import "layout/layout";
+
 /* Test */
 @import "tablas"; 

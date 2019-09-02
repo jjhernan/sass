@@ -1,16 +1,41 @@
+@charset "UTF-8";
 /* Librerias y variables*/
 /* $COLORS */
 /* Branding Color */
 /* Texturas */
 /* Tipografia */
+/* Constantes */
+/* Mixins */
+/* Mixins */
 /*Elementos Base */
 /* $Botones */
+.btn {
+  display: inline-block;
+  color: white;
+  background: buttonbackgroundcolor;
+  line-height: 2.5;
+  border-radius: 3px;
+  font-size: 24px; }
+
+/* BEM, Block element modifier, Organizar muy facil el CSS en c├│digo para saber a que pertenece y que es de que */
+/* "__" Signifca, es un elemento (E)  */
+.btn__icon {
+  font-size: .6em; }
+
+/* "--" Signifca, es un modificador (M)  */
+.btn--info {
+  background-color: #42b8dd; }
+
 /* Links */
 /* $Links */
 /* Tipografia */
 /* $Tipografia */
 /* Components Grids */
 /* Este siempre va de ultimo */
+/* Layout */
+section {
+  max-width: 800px; }
+
 /* Test */
 table tr:hover {
   background-color: #dbd879; }

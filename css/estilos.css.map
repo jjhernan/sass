@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,0BAA0B;ACA1B,aAAa;AACb,oBAAoB;AAYpB,cAAc;AAMd,gBAAgB;ADjBhB,mBAAmB;AEFnB,cAAc;AFId,WAAW;AGJX,YAAY;AHMZ,gBAAgB;AINhB,iBAAiB;AJQjB,sBAAsB;AAGtB,+BAA+B;AAE/B,UAAU;AKbV,cAAc;EACd,gBAAgB,EJGC,OAAgB",
-"sources": ["../sass/estilos.scss","../sass/lib/_variables.scss","../sass/base/_botones.scss","../sass/base/_links.scss","../sass/base/_tipografia.scss","../sass/_tablas.scss"],
+"mappings": ";AAAA,0BAA0B;ACA1B,aAAa;AACb,oBAAoB;AAYpB,cAAc;AAMd,gBAAgB;AAQhB,gBAAgB;ADzBhB,YAAY;AEFZ,YAAY;AFKZ,mBAAmB;AGLnB,cAAc;AAEd,IAAK;EACH,OAAO,EAAE,YAAY;EACrB,KAAK,EFmBO,KAAY;EElBxB,UAAU,EAAE,qBAAqB;EACjC,WAAW,EAAE,GAAG;EAChB,aAAa,EFqBC,GAAG;EEpBjB,SAAS,EFiBM,IAAmB;;AEdpC,mHAAmH;AACnH,wCAAwC;AAEtC,UAAW;EACP,SAAS,EAAE,IAAI;;AAErB,2CAA2C;AACxC,UAAW;EACR,gBAAgB,EFHR,OAAe;;ADT7B,WAAW;AIPX,YAAY;AJSZ,gBAAgB;AKThB,iBAAiB;ALWjB,sBAAsB;AAGtB,+BAA+B;AAG/B,YAAY;AMjBZ,OAAQ;EJGN,SAAS,EAAE,KAAK;;AFkBlB,UAAU;AOrBV,cAAc;EACd,gBAAgB,ENGC,OAAgB",
+"sources": ["../sass/estilos.scss","../sass/lib/_variables.scss","../sass/lib/_mixins.scss","../sass/base/_botones.scss","../sass/base/_links.scss","../sass/base/_tipografia.scss","../sass/layout/_layout.scss","../sass/_tablas.scss"],
 "names": [],
 "file": "estilos.css"
 }

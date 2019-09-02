@@ -1,1 +1,21 @@
 /* $Botones */
+
+.btn {
+  display: inline-block;
+  color: $buttoncolor;
+  background: buttonbackgroundcolor;
+  line-height: 2.5;
+  border-radius: $border-radius;
+  font-size: $buttonfontsize; 
+}
+
+/* BEM, Block element modifier, Organizar muy facil el CSS en código para saber a que pertenece y que es de que */
+/* "__" Signifca, es un elemento (E)  */
+
+  .btn__icon {
+      font-size: .6em;
+    }
+/* "--" Signifca, es un modificador (M)  */
+   .btn--info {
+      background-color: $color-info;
+   }
