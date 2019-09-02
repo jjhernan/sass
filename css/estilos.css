@@ -7,6 +7,10 @@
 /* Constantes */
 /* Mixins */
 /* Mixins */
+/* Agregar un bloque de contenido dentro de un
+mixin */
+/* Breakpoint es la resoluc[on, o el punto en el que quiero cambiar el tama;o
+de la resolucon */
 /*Elementos Base */
 /* $Botones */
 .btn {
@@ -33,8 +37,33 @@
 /* Components Grids */
 /* Este siempre va de ultimo */
 /* Layout */
+/* Funcion */
+/* Uso de Funciones */
+.div_bajo {
+  padding: 15px; }
+
+/* Crear un Mapa con valores */
+p {
+  font-size: 24px; }
+
 section {
-  max-width: 800px; }
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+  background-color: #bfbfbf;
+  padding: 24px; }
+  @media only screen and (min-width: 1200px) {
+    section {
+      background-color: red; } }
+
+.max-width--huge {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto; }
+
+header {
+  background-color: #ea83ee; }
 
 /* Test */
 table tr:hover {
